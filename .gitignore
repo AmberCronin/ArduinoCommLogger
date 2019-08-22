@@ -1,0 +1,15 @@
+# Autosave files
+*~
+*.swp
+*.bak
+
+# build
+[Oo]bj/
+[Bb]in/
+
+# globs
+.idea/
+*.DS_Store
+*.suo
+*.pdb
+*.userprefs
